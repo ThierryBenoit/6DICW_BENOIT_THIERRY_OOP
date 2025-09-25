@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{056BA95B-2DBA-44DD-A0D5-D491E7F24644}|ConsoleApp1\\ConsoleApp1.vbproj|c:\\users\\thierry.benoit\\source\\repos\\consoleapp1\\consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{056BA95B-2DBA-44DD-A0D5-D491E7F24644}|ConsoleApp1\\ConsoleApp1.vbproj|solutionrelative:consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.vb",
+              "ToolTip": "C:\\Users\\thierry.benoit\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeToolTip": "ConsoleApp1\\Program.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-25T10:15:08.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
