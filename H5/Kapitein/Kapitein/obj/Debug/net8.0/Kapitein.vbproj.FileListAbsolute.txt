@@ -1,0 +1,14 @@
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\bin\Debug\net8.0\Kapitein.exe
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\bin\Debug\net8.0\Kapitein.deps.json
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\bin\Debug\net8.0\Kapitein.runtimeconfig.json
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\bin\Debug\net8.0\Kapitein.dll
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\bin\Debug\net8.0\Kapitein.pdb
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\Kapitein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\Kapitein.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\Kapitein.AssemblyInfo.vb
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\Kapitein.vbproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\Kapitein.dll
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\refint\Kapitein.dll
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\Kapitein.pdb
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\Kapitein.genruntimeconfig.cache
+C:\Users\thierry.benoit\source\repos\Kapitein\Kapitein\obj\Debug\net8.0\ref\Kapitein.dll
