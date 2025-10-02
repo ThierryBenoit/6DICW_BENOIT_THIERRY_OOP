@@ -1,0 +1,14 @@
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\bin\Debug\net8.0\Benoit_Thierry_Dier.exe
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\bin\Debug\net8.0\Benoit_Thierry_Dier.deps.json
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\bin\Debug\net8.0\Benoit_Thierry_Dier.runtimeconfig.json
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\bin\Debug\net8.0\Benoit_Thierry_Dier.dll
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\bin\Debug\net8.0\Benoit_Thierry_Dier.pdb
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\Benoit_Thierry_Dier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\Benoit_Thierry_Dier.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\Benoit_Thierry_Dier.AssemblyInfo.vb
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\Benoit_Thierry_Dier.vbproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\Benoit_Thierry_Dier.dll
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\refint\Benoit_Thierry_Dier.dll
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\Benoit_Thierry_Dier.pdb
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\Benoit_Thierry_Dier.genruntimeconfig.cache
+C:\Users\thierry.benoit\source\repos\Benoit_Thierry_Dier\Benoit_Thierry_Dier\obj\Debug\net8.0\ref\Benoit_Thierry_Dier.dll
