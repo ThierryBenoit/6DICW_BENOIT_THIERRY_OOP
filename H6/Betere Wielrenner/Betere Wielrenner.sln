@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Betere Wielrenner", "Betere Wielrenner\Betere Wielrenner.vbproj", "{A04EBF16-F9E0-4EAA-829F-C847800E479D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04EBF16-F9E0-4EAA-829F-C847800E479D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04EBF16-F9E0-4EAA-829F-C847800E479D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04EBF16-F9E0-4EAA-829F-C847800E479D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04EBF16-F9E0-4EAA-829F-C847800E479D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B88D18-B6AA-4DDC-908B-6AE38714DDC2}
+	EndGlobalSection
+EndGlobal

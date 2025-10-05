@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\source\\repos\\Jonas Vingegaard\\",
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H4\\Jonas Vingegaard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9B87145-3AEA-4E14-A1DC-7C1B5DE602CC}|Jonas Vingegaard\\Jonas Vingegaard.vbproj|c:\\users\\thierry.benoit\\source\\repos\\jonas vingegaard\\jonas vingegaard\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{B9B87145-3AEA-4E14-A1DC-7C1B5DE602CC}|Jonas Vingegaard\\Jonas Vingegaard.vbproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\h4\\jonas vingegaard\\jonas vingegaard\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{B9B87145-3AEA-4E14-A1DC-7C1B5DE602CC}|Jonas Vingegaard\\Jonas Vingegaard.vbproj|solutionrelative:jonas vingegaard\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\thierry.benoit\\source\\repos\\Jonas Vingegaard\\Jonas Vingegaard\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H4\\Jonas Vingegaard\\Jonas Vingegaard\\Program.vb",
               "RelativeDocumentMoniker": "Jonas Vingegaard\\Program.vb",
-              "ToolTip": "C:\\Users\\thierry.benoit\\source\\repos\\Jonas Vingegaard\\Jonas Vingegaard\\Program.vb",
-              "RelativeToolTip": "Jonas Vingegaard\\Program.vb",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H4\\Jonas Vingegaard\\Jonas Vingegaard\\Program.vb*",
+              "RelativeToolTip": "Jonas Vingegaard\\Program.vb*",
+              "ViewState": "AgIAAAoAAADgXLRwKzQ7wBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-09-19T09:28:05.943Z",
               "EditorCaption": ""

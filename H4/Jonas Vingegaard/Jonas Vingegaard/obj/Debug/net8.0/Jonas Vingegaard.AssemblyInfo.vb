@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Jonas Vingegaard"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba276504fc83cbecad8cdcc775888d7a0f9c27fa"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Jonas Vingegaard"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Jonas Vingegaard"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

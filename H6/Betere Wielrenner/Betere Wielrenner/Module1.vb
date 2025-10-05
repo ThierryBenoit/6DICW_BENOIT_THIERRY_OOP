@@ -1,4 +1,4 @@
-Imports System
+﻿Imports System
 
 Class Wielrenner
     ' Private velden
@@ -8,6 +8,8 @@ Class Wielrenner
     Private booouderDan25 As Boolean
     Private doulengte As Double
     Private inttimetrialPoints As Integer
+
+    ' Constructor (waarden meegeven bij het maken van een nieuw object)
     Public Sub New(intleeftijd As Integer, strgeboorteplaats As String, dougewicht As Double, booouderDan25 As Boolean, doulengte As Double, inttimetrialPoints As Integer)
         Me.intleeftijd = intleeftijd
         Me.strgeboorteplaats = strgeboorteplaats
@@ -16,6 +18,8 @@ Class Wielrenner
         Me.doulengte = doulengte
         Me.inttimetrialPoints = inttimetrialPoints
     End Sub
+
+    ' Public functies om de waarden te "halen" (getters)
     Public Function GetLeeftijd() As Integer
         Return intleeftijd
     End Function
@@ -43,7 +47,10 @@ End Class
 
 Module Program
     Sub Main(args As String())
+        ' Nieuw object maken (met inputs naar de constructor)
         Dim JonasVingegaard As New Wielrenner(26, "Denemarken", 60.0, True, 187.0, 95)
+
+        ' Waarden opvragen via functies
         Console.WriteLine("Leeftijd: " & JonasVingegaard.GetLeeftijd())
         Console.WriteLine("Geboorteplaats: " & JonasVingegaard.GetGeboorteplaats())
         Console.WriteLine("Gewicht: " & JonasVingegaard.GetGewicht() & " kg")
