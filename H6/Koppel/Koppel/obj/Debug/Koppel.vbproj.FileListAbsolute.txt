@@ -1,0 +1,12 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\obj\Debug\Koppel.vbproj.AssemblyReference.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\obj\Debug\Koppel.Resources.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\obj\Debug\Koppel.vbproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\obj\Debug\Koppel.vbproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\bin\Debug\Koppel.exe.config
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\bin\Debug\Koppel.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\bin\Debug\Koppel.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\bin\Debug\Koppel.xml
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\obj\Debug\Koppel.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\obj\Debug\Koppel.xml
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\obj\Debug\Koppel.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H6\Koppel\Koppel\obj\Debug\Koppel.exe.config
