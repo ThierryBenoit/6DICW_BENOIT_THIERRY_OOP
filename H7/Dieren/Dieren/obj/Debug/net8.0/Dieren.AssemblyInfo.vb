@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Dieren"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05f09b25ce5485a2aaba32c904151d4203f3c155"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65867e31f0a15526d837098cadc5628508ec32e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Dieren"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Dieren"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
