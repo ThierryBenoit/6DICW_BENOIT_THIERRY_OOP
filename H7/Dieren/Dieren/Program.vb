@@ -1,7 +1,4 @@
 Imports System
-Imports System.Runtime.CompilerServices
-Imports System.Runtime.InteropServices
-Imports System.Security.Cryptography.X509Certificates
 Public Class Dier
     Protected IntKleur As Integer
     Protected Inteet As Integer
