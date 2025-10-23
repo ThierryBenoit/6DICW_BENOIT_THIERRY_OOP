@@ -1,0 +1,15 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\bin\Debug\net8.0\voetballers.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\bin\Debug\net8.0\voetballers.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\bin\Debug\net8.0\voetballers.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\bin\Debug\net8.0\voetballers.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\bin\Debug\net8.0\voetballers.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\voetballers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\voetballers.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\voetballers.AssemblyInfo.vb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\voetballers.vbproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\voetballers.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\voetballers.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\refint\voetballers.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\voetballers.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\voetballers.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\voetballers\voetballers\obj\Debug\net8.0\ref\voetballers.dll

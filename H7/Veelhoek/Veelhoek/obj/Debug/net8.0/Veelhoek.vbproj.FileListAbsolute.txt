@@ -1,0 +1,15 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\Veelhoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\Veelhoek.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\Veelhoek.AssemblyInfo.vb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\Veelhoek.vbproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\Veelhoek.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\bin\Debug\net8.0\Veelhoek.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\bin\Debug\net8.0\Veelhoek.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\bin\Debug\net8.0\Veelhoek.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\bin\Debug\net8.0\Veelhoek.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\bin\Debug\net8.0\Veelhoek.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\Veelhoek.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\refint\Veelhoek.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\Veelhoek.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\Veelhoek.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Veelhoek\Veelhoek\obj\Debug\net8.0\ref\Veelhoek.dll
