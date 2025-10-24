@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
               "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H7\\Veelhoek\\Veelhoek\\Program.vb",
               "RelativeDocumentMoniker": "Veelhoek\\Program.vb",
-              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H7\\Veelhoek\\Veelhoek\\Program.vb*",
-              "RelativeToolTip": "Veelhoek\\Program.vb*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H7\\Veelhoek\\Veelhoek\\Program.vb",
+              "RelativeToolTip": "Veelhoek\\Program.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-23T09:51:27.695Z",
               "EditorCaption": ""

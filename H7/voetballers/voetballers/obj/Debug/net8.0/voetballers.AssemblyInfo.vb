@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("voetballers"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65867e31f0a15526d837098cadc5628508ec32e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e551c012610ddab2acf09643bfdf29b42715b465"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("voetballers"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("voetballers"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

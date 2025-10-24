@@ -5,6 +5,7 @@ Class Veelhoek
 
     Public Sub New(inthoeken As Integer)
         Me.intHoeken = inthoeken
+
     End Sub
 
     Public Overridable Sub AantalHoeken()
