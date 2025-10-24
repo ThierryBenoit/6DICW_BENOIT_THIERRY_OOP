@@ -1,0 +1,15 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\bin\Debug\net8.0\DierenOntwikkeling.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\bin\Debug\net8.0\DierenOntwikkeling.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\bin\Debug\net8.0\DierenOntwikkeling.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\bin\Debug\net8.0\DierenOntwikkeling.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\bin\Debug\net8.0\DierenOntwikkeling.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\DierenOntwikkeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\DierenOntwikkeling.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\DierenOntwikkeling.AssemblyInfo.vb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\DierenOntwikkeling.vbproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\DierenOntwikkeling.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\DierenOntwikkeling.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\refint\DierenOntwikkeling.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\DierenOntwikkeling.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\DierenOntwikkeling.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\DierenOntwikkeling\DierenOntwikkeling\obj\Debug\net8.0\ref\DierenOntwikkeling.dll
