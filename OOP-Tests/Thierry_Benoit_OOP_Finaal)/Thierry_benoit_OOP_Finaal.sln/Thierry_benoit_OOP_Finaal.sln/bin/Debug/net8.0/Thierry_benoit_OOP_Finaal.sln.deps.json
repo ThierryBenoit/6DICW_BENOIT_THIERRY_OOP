@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Thierry_benoit_OOP_Finaal.sln/1.0.0": {
+        "runtime": {
+          "Thierry_benoit_OOP_Finaal.sln.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thierry_benoit_OOP_Finaal.sln/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
