@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Wielrenner"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2dbbaaa5336bed24b54ffe1e718161f2d0bb2d2"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e366dc93ac9f77188469e120b3e8e79bc4011be4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Wielrenner"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Wielrenner"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

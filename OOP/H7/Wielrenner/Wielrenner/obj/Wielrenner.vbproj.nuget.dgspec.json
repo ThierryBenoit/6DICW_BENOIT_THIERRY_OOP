@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H7\\Wielrenner\\Wielrenner\\Wielrenner.vbproj": {}
+    "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\H7\\Wielrenner\\Wielrenner\\Wielrenner.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H7\\Wielrenner\\Wielrenner\\Wielrenner.vbproj": {
+    "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\H7\\Wielrenner\\Wielrenner\\Wielrenner.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H7\\Wielrenner\\Wielrenner\\Wielrenner.vbproj",
+        "projectUniqueName": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\H7\\Wielrenner\\Wielrenner\\Wielrenner.vbproj",
         "projectName": "Wielrenner",
-        "projectPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H7\\Wielrenner\\Wielrenner\\Wielrenner.vbproj",
+        "projectPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\H7\\Wielrenner\\Wielrenner\\Wielrenner.vbproj",
         "packagesPath": "C:\\Users\\thierry.benoit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\H7\\Wielrenner\\Wielrenner\\obj\\",
+        "outputPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\H7\\Wielrenner\\Wielrenner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
