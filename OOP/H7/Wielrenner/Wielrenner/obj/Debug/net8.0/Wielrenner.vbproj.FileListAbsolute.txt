@@ -1,0 +1,15 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\bin\Debug\net8.0\Wielrenner.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\bin\Debug\net8.0\Wielrenner.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\bin\Debug\net8.0\Wielrenner.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\bin\Debug\net8.0\Wielrenner.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\bin\Debug\net8.0\Wielrenner.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\Wielrenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\Wielrenner.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\Wielrenner.AssemblyInfo.vb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\Wielrenner.vbproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\Wielrenner.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\Wielrenner.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\refint\Wielrenner.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\Wielrenner.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\Wielrenner.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\H7\Wielrenner\Wielrenner\obj\Debug\net8.0\ref\Wielrenner.dll
