@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefening 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AD2528-A514-47CA-9138-D4D5C7E146A6}|oefening 2\\oefening 2.vbproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\oefening 2\\oefening 2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D0AD2528-A514-47CA-9138-D4D5C7E146A6}|oefening 2\\oefening 2.vbproj|solutionrelative:oefening 2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefening 2\\oefening 2\\Module1.vb",
+              "RelativeDocumentMoniker": "oefening 2\\Module1.vb",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefening 2\\oefening 2\\Module1.vb",
+              "RelativeToolTip": "oefening 2\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-01T07:41:56.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
