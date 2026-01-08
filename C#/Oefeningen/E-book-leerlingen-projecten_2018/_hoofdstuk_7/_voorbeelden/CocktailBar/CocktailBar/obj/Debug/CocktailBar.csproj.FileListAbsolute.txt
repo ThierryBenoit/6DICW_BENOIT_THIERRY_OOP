@@ -1,0 +1,8 @@
+E:\2017_2018\Drielagenmodel\_hoofdstuk_6\_oefeningen\_oplossing\CocktailBar\CocktailBar\bin\Debug\CocktailBar.exe.config
+E:\2017_2018\Drielagenmodel\_hoofdstuk_6\_oefeningen\_oplossing\CocktailBar\CocktailBar\bin\Debug\CocktailBar.exe
+E:\2017_2018\Drielagenmodel\_hoofdstuk_6\_oefeningen\_oplossing\CocktailBar\CocktailBar\bin\Debug\CocktailBar.pdb
+E:\2017_2018\Drielagenmodel\_hoofdstuk_6\_oefeningen\_oplossing\CocktailBar\CocktailBar\obj\Debug\CocktailBar.csprojResolveAssemblyReference.cache
+E:\2017_2018\Drielagenmodel\_hoofdstuk_6\_oefeningen\_oplossing\CocktailBar\CocktailBar\obj\Debug\CocktailBar.Properties.Resources.resources
+E:\2017_2018\Drielagenmodel\_hoofdstuk_6\_oefeningen\_oplossing\CocktailBar\CocktailBar\obj\Debug\CocktailBar.csproj.GenerateResource.Cache
+E:\2017_2018\Drielagenmodel\_hoofdstuk_6\_oefeningen\_oplossing\CocktailBar\CocktailBar\obj\Debug\CocktailBar.exe
+E:\2017_2018\Drielagenmodel\_hoofdstuk_6\_oefeningen\_oplossing\CocktailBar\CocktailBar\obj\Debug\CocktailBar.pdb

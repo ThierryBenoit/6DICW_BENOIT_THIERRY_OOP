@@ -1,0 +1,11 @@
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\bin\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\bin\Debug\Business.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\obj\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\obj\Debug\Business.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\bin\Debug\Business.dll
+F:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\bin\Debug\Business.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\obj\Debug\Business.csprojAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\obj\Debug\Business.dll
+F:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_8\_oefeningen\_beginsituatie\OpStapOefening\Business\obj\Debug\Business.pdb

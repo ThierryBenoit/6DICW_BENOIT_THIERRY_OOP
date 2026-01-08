@@ -1,0 +1,9 @@
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\bin\Debug\Reisbureau.exe.config
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\bin\Debug\Reisbureau.exe
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\bin\Debug\Reisbureau.pdb
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\obj\Debug\Reisbureau.csproj.AssemblyReference.cache
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\obj\Debug\Reisbureau.Properties.Resources.resources
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\obj\Debug\Reisbureau.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\obj\Debug\Reisbureau.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\obj\Debug\Reisbureau.exe
+C:\Users\thierry.benoit\Downloads\school\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_1\_oefeningen\Reisbureau\Reisbureau\obj\Debug\Reisbureau.pdb

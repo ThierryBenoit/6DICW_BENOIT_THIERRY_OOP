@@ -1,0 +1,30 @@
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Presentation.exe.config
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Presentation.exe
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Presentation.pdb
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Business.dll
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Business.pdb
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.WandelrouteInfoForm.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.WandelroutesFilterForm.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.WandelroutesForm.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.WandelroutesWelkomForm.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.exe
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\bin\Debug\Presentation.exe.config
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\bin\Debug\Presentation.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\bin\Debug\Presentation.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\bin\Debug\Business.dll
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\bin\Debug\Business.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.WandelrouteInfoForm.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.WandelroutesFilterForm.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.WandelroutesForm.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.WandelroutesWelkomForm.resources
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.exe
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Presentation\obj\Debug\Presentation.pdb

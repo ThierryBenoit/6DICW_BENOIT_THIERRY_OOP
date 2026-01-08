@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joris.custers\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\NewSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{923C748F-BA66-4AF0-964B-A8AD40D7ACD9}|NewSchool\\NewSchool.csproj|c:\\users\\joris.custers\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\newschool\\newschool\\klasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923C748F-BA66-4AF0-964B-A8AD40D7ACD9}|NewSchool\\NewSchool.csproj|solutionrelative:newschool\\klasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923C748F-BA66-4AF0-964B-A8AD40D7ACD9}|NewSchool\\NewSchool.csproj|c:\\users\\joris.custers\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\newschool\\newschool\\klasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{923C748F-BA66-4AF0-964B-A8AD40D7ACD9}|NewSchool\\NewSchool.csproj|solutionrelative:newschool\\klasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923C748F-BA66-4AF0-964B-A8AD40D7ACD9}|NewSchool\\NewSchool.csproj|c:\\users\\joris.custers\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\newschool\\newschool\\klas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923C748F-BA66-4AF0-964B-A8AD40D7ACD9}|NewSchool\\NewSchool.csproj|solutionrelative:newschool\\klas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KlasForm.cs",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\NewSchool\\NewSchool\\KlasForm.cs",
+              "RelativeDocumentMoniker": "NewSchool\\KlasForm.cs",
+              "ToolTip": "C:\\Users\\joris.custers\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\NewSchool\\NewSchool\\KlasForm.cs",
+              "RelativeToolTip": "NewSchool\\KlasForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:10:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KlasForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\NewSchool\\NewSchool\\KlasForm.cs",
+              "RelativeDocumentMoniker": "NewSchool\\KlasForm.cs",
+              "ToolTip": "C:\\Users\\joris.custers\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\NewSchool\\NewSchool\\KlasForm.cs [Design]",
+              "RelativeToolTip": "NewSchool\\KlasForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:07:01.84Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Klas.cs",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\NewSchool\\NewSchool\\Klas.cs",
+              "RelativeDocumentMoniker": "NewSchool\\Klas.cs",
+              "ToolTip": "C:\\Users\\joris.custers\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_voorbeelden\\NewSchool\\NewSchool\\Klas.cs",
+              "RelativeToolTip": "NewSchool\\Klas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:05:26.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CF515FC-8191-4F27-A053-3C8EE504F1D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Presentation</RootNamespace>
+    <AssemblyName>Presentation</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LangsteWandelrouteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LangsteWandelrouteForm.Designer.cs">
+      <DependentUpon>LangsteWandelrouteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerwijderWandelroutesGemeenteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerwijderWandelroutesGemeenteForm.Designer.cs">
+      <DependentUpon>VerwijderWandelroutesGemeenteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WandelrouteInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WandelrouteInfoForm.designer.cs">
+      <DependentUpon>WandelrouteInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WandelroutesFilter1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WandelroutesFilter1Form.Designer.cs">
+      <DependentUpon>WandelroutesFilter1Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WandelroutesFilter2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WandelroutesFilter2Form.Designer.cs">
+      <DependentUpon>WandelroutesFilter2Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WandelroutesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WandelroutesForm.designer.cs">
+      <DependentUpon>WandelroutesForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LangsteWandelrouteForm.resx">
+      <DependentUpon>LangsteWandelrouteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerwijderWandelroutesGemeenteForm.resx">
+      <DependentUpon>VerwijderWandelroutesGemeenteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WandelrouteInfoForm.resx">
+      <DependentUpon>WandelrouteInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WandelroutesFilter1Form.resx">
+      <DependentUpon>WandelroutesFilter1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WandelroutesFilter2Form.resx">
+      <DependentUpon>WandelroutesFilter2Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WandelroutesForm.resx">
+      <DependentUpon>WandelroutesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{1e099ea7-f592-4204-b5fa-6620b9a7c473}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{ebde9e70-a938-4166-b7ce-759466a1af25}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

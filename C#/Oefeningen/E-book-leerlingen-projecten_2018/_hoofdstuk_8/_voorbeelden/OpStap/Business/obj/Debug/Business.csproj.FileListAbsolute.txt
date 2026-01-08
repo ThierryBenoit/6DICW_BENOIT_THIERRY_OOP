@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\bin\Debug\Business.dll
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\bin\Debug\Business.pdb
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\obj\Debug\Business.dll
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\obj\Debug\Business.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Business\bin\Debug\Business.dll
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Business\bin\Debug\Business.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Business\obj\Debug\Business.csprojAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Business\obj\Debug\Business.dll
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_8\_voorbeelden\OpStap\Business\obj\Debug\Business.pdb

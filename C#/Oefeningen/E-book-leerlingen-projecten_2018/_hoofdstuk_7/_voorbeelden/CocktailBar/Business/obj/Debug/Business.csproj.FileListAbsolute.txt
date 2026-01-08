@@ -1,0 +1,11 @@
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_voorbeelden\_beginsituatie\CocktailBar\Business\bin\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_voorbeelden\_beginsituatie\CocktailBar\Business\bin\Debug\Business.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_voorbeelden\_beginsituatie\CocktailBar\Business\obj\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_voorbeelden\_beginsituatie\CocktailBar\Business\obj\Debug\Business.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_voorbeelden\_beginsituatie\CocktailBar\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_voorbeelden\CocktailBar\Business\bin\Debug\Business.dll
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_voorbeelden\CocktailBar\Business\bin\Debug\Business.pdb
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_voorbeelden\CocktailBar\Business\obj\Debug\Business.csprojAssemblyReference.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_voorbeelden\CocktailBar\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_voorbeelden\CocktailBar\Business\obj\Debug\Business.dll
+F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_voorbeelden\CocktailBar\Business\obj\Debug\Business.pdb

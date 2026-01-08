@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|c:\\users\\thierry.benoit\\downloads\\school\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\aftelklok\\aftelklok\\aftelklokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\aftelklokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\aftelklok\\aftelklok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\aftelklok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\aftelklok\\aftelklokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\aftelklokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\aftelklok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\Aftelklok\\Program.cs",
+              "RelativeDocumentMoniker": "Aftelklok\\Program.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\Aftelklok\\Program.cs",
+              "RelativeToolTip": "Aftelklok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:58:42.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AftelklokForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs",
+              "RelativeDocumentMoniker": "Aftelklok\\AftelklokForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs [Design]*",
+              "RelativeToolTip": "Aftelklok\\AftelklokForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:52:31.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AftelklokForm.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs",
+              "RelativeDocumentMoniker": "Aftelklok\\AftelklokForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs*",
+              "RelativeToolTip": "Aftelklok\\AftelklokForm.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:53:36.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aftelklok.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\Aftelklok\\Aftelklok.cs",
+              "RelativeDocumentMoniker": "Aftelklok\\Aftelklok.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_oefeningen\\Aftelklok\\Aftelklok\\Aftelklok.cs",
+              "RelativeToolTip": "Aftelklok\\Aftelklok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:50:41.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_oplossing\Jeugdbeweging\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_oplossing\Jeugdbeweging\Business\bin\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_oplossing\Jeugdbeweging\Business\bin\Debug\Business.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_oplossing\Jeugdbeweging\Business\obj\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_8\_oefeningen\_oplossing\Jeugdbeweging\Business\obj\Debug\Business.pdb
