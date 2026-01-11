@@ -59,5 +59,15 @@ namespace OpDeWeegschaal.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Schermafbeelding_2026_01_11_110258 {
+            get {
+                object obj = ResourceManager.GetObject("Schermafbeelding 2026-01-11 110258", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

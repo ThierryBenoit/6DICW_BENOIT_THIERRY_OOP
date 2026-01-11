@@ -5,3 +5,11 @@ C:\Users\joris.custers\source\repos\smartphone\smartphone\obj\Debug\smartphone.c
 C:\Users\joris.custers\source\repos\smartphone\smartphone\obj\Debug\smartphone.csproj.CoreCompileInputs.cache
 C:\Users\joris.custers\source\repos\smartphone\smartphone\obj\Debug\smartphone.exe
 C:\Users\joris.custers\source\repos\smartphone\smartphone\obj\Debug\smartphone.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\smartphone\smartphone\bin\Debug\smartphone.exe.config
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\smartphone\smartphone\bin\Debug\smartphone.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\smartphone\smartphone\bin\Debug\smartphone.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\smartphone\smartphone\obj\Debug\smartphone.csproj.AssemblyReference.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\smartphone\smartphone\obj\Debug\smartphone.exe.config
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\smartphone\smartphone\obj\Debug\smartphone.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\smartphone\smartphone\obj\Debug\smartphone.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\smartphone\smartphone\obj\Debug\smartphone.pdb

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joris.custers\\source\\repos\\smartphone\\",
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\smartphone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{991F81A2-B9AD-494A-BD5F-C1338AC99438}|smartphone\\smartphone.csproj|c:\\users\\joris.custers\\source\\repos\\smartphone\\smartphone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{991F81A2-B9AD-494A-BD5F-C1338AC99438}|smartphone\\smartphone.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\smartphone\\smartphone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{991F81A2-B9AD-494A-BD5F-C1338AC99438}|smartphone\\smartphone.csproj|solutionrelative:smartphone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joris.custers\\source\\repos\\smartphone\\smartphone\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\smartphone\\smartphone\\Program.cs",
               "RelativeDocumentMoniker": "smartphone\\Program.cs",
-              "ToolTip": "C:\\Users\\joris.custers\\source\\repos\\smartphone\\smartphone\\Program.cs",
-              "RelativeToolTip": "smartphone\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\smartphone\\smartphone\\Program.cs*",
+              "RelativeToolTip": "smartphone\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T12:50:56.79Z",
               "EditorCaption": ""
