@@ -53,6 +53,11 @@ namespace OpDeWeegschaal
         }
         private void gewichtOmlaag_Click(object sender, EventArgs e)
         {
+            _weightWatcher.Gewicht -= 1;
+
+            gewichtInKg.Text = _weightWatcher.Gewicht.ToString();
+            BmiBerekend.Text = _weightWatcher.GeefBMI().ToString("0.00");
+            Status.Text = _weightWatcher.Geefstatus();
 
         }
 

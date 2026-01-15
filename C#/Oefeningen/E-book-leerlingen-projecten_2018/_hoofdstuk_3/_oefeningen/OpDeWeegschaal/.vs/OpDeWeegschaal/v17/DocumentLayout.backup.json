@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\opdeweegschaal\\opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\opdeweegschaal\\opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|solutionrelative:opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|solutionrelative:opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\opdeweegschaal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|solutionrelative:opdeweegschaal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|solutionrelative:opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\opdeweegschaal\\weightwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,32 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BMIForm.cs",
               "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\BMIForm.cs",
               "RelativeDocumentMoniker": "OpDeWeegschaal\\BMIForm.cs",
-              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\BMIForm.cs",
-              "RelativeToolTip": "OpDeWeegschaal\\BMIForm.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAArwDkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\BMIForm.cs*",
+              "RelativeToolTip": "OpDeWeegschaal\\BMIForm.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T10:55:14.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BMIForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\BMIForm.cs",
               "RelativeDocumentMoniker": "OpDeWeegschaal\\BMIForm.cs",
               "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\BMIForm.cs [Design]",
               "RelativeToolTip": "OpDeWeegschaal\\BMIForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T10:36:00.077Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-09T10:36:00.077Z"
             },
             {
               "$type": "Document",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "OpDeWeegschaal\\WeightWatcher.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T10:35:40.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T10:35:40.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\Program.cs",
               "RelativeDocumentMoniker": "OpDeWeegschaal\\Program.cs",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "OpDeWeegschaal\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T10:35:06.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T10:35:06.153Z"
             }
           ]
         }
