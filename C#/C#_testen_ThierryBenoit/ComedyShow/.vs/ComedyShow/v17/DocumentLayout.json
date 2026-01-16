@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\comedyshow\\comedyshow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|solutionrelative:comedyshow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\comedyshow\\comedyshow\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|solutionrelative:comedyshow\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\comedyshow\\comedyshow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|solutionrelative:comedyshow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\comedyshow\\comedyshow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|solutionrelative:comedyshow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\comedyshow\\comedyshow\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|solutionrelative:comedyshow\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\comedyshow\\comedyshow\\comedyshow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B581BB04-2365-446C-8687-FC1EF9ED291A}|ComedyShow\\ComedyShow.csproj|solutionrelative:comedyshow\\comedyshow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 125,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Form1.cs",
+              "RelativeDocumentMoniker": "ComedyShow\\Form1.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Form1.cs [Design]",
+              "RelativeToolTip": "ComedyShow\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:16:29.793Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComedyShow.csproj",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\ComedyShow.csproj",
+              "RelativeDocumentMoniker": "ComedyShow\\ComedyShow.csproj",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\ComedyShow.csproj",
+              "RelativeToolTip": "ComedyShow\\ComedyShow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T10:30:47.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Form1.cs",
+              "RelativeDocumentMoniker": "ComedyShow\\Form1.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Form1.cs",
+              "RelativeToolTip": "ComedyShow\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:29:06.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Program.cs",
+              "RelativeDocumentMoniker": "ComedyShow\\Program.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Program.cs",
+              "RelativeToolTip": "ComedyShow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:28:39.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ComedyShow\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Form1.Designer.cs",
+              "RelativeToolTip": "ComedyShow\\Form1.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:28:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Class1.cs",
+              "RelativeDocumentMoniker": "ComedyShow\\Class1.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\ComedyShow\\ComedyShow\\Class1.cs",
+              "RelativeToolTip": "ComedyShow\\Class1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:17:03.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

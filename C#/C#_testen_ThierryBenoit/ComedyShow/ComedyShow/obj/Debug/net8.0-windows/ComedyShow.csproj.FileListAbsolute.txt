@@ -1,0 +1,15 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.AssemblyInfo.cs
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\refint\ComedyShow.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ref\ComedyShow.dll
