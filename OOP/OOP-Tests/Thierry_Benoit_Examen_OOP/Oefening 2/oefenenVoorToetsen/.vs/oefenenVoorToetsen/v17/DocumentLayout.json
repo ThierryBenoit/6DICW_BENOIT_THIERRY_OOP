@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\oefenenvoortoetsen\\oefenenvoortoetsen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|solutionrelative:oefenenvoortoetsen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\oefenenvoortoetsen\\oefenenvoortoetsen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|solutionrelative:oefenenvoortoetsen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\oefenenvoortoetsen\\oefenenvoortoetsen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|solutionrelative:oefenenvoortoetsen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\oefenenvoortoetsen\\oefenenvoortoetsen\\oefenenvoortoetsen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|solutionrelative:oefenenvoortoetsen\\oefenenvoortoetsen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\oefenenvoortoetsen\\oefenenvoortoetsen\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{931F6B13-ED39-44A9-BF93-6BC481BA8D7B}|oefenenVoorToetsen\\oefenenVoorToetsen.csproj|solutionrelative:oefenenvoortoetsen\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "oefenenVoorToetsen",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\oefenenVoorToetsen.csproj",
+              "RelativeDocumentMoniker": "oefenenVoorToetsen\\oefenenVoorToetsen.csproj",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\oefenenVoorToetsen.csproj",
+              "RelativeToolTip": "oefenenVoorToetsen\\oefenenVoorToetsen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T15:00:26.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\Program.cs",
+              "RelativeDocumentMoniker": "oefenenVoorToetsen\\Program.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\Program.cs",
+              "RelativeToolTip": "oefenenVoorToetsen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:00:22.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\Form1.resx",
+              "RelativeDocumentMoniker": "oefenenVoorToetsen\\Form1.resx",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\Form1.resx",
+              "RelativeToolTip": "oefenenVoorToetsen\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-15T15:00:21.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\Form1.cs",
+              "RelativeDocumentMoniker": "oefenenVoorToetsen\\Form1.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\Form1.cs",
+              "RelativeToolTip": "oefenenVoorToetsen\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:00:05.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\Form1.cs",
+              "RelativeDocumentMoniker": "oefenenVoorToetsen\\Form1.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\oefenenVoorToetsen\\oefenenVoorToetsen\\Form1.cs [Design]",
+              "RelativeToolTip": "oefenenVoorToetsen\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:58:05.351Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

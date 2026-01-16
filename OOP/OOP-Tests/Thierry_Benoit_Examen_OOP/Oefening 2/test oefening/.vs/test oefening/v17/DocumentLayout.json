@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBCE050-3C83-493C-9759-C44964A7F06E}|test oefening\\test oefening.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\test oefening\\test oefening\\schaakberekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBCE050-3C83-493C-9759-C44964A7F06E}|test oefening\\test oefening.csproj|solutionrelative:test oefening\\schaakberekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBCE050-3C83-493C-9759-C44964A7F06E}|test oefening\\test oefening.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\test oefening\\test oefening\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBCE050-3C83-493C-9759-C44964A7F06E}|test oefening\\test oefening.csproj|solutionrelative:test oefening\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBCE050-3C83-493C-9759-C44964A7F06E}|test oefening\\test oefening.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\test oefening\\test oefening\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BBCE050-3C83-493C-9759-C44964A7F06E}|test oefening\\test oefening.csproj|solutionrelative:test oefening\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBCE050-3C83-493C-9759-C44964A7F06E}|test oefening\\test oefening.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\oop-tests\\thierry_benoit_examen_oop\\oefening 2\\test oefening\\test oefening\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0BBCE050-3C83-493C-9759-C44964A7F06E}|test oefening\\test oefening.csproj|solutionrelative:test oefening\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\test oefening\\Form1.cs",
+              "RelativeDocumentMoniker": "test oefening\\Form1.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\test oefening\\Form1.cs",
+              "RelativeToolTip": "test oefening\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:46:33.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\test oefening\\Form1.cs",
+              "RelativeDocumentMoniker": "test oefening\\Form1.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\test oefening\\Form1.cs [Design]",
+              "RelativeToolTip": "test oefening\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:46:31.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Schaakberekening.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\test oefening\\Schaakberekening.cs",
+              "RelativeDocumentMoniker": "test oefening\\Schaakberekening.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\test oefening\\Schaakberekening.cs*",
+              "RelativeToolTip": "test oefening\\Schaakberekening.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:02:35.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\test oefening\\Form1.resx",
+              "RelativeDocumentMoniker": "test oefening\\Form1.resx",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\OOP-Tests\\Thierry_Benoit_Examen_OOP\\Oefening 2\\test oefening\\test oefening\\Form1.resx",
+              "RelativeToolTip": "test oefening\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-15T11:21:37.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

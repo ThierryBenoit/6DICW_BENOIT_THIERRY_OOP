@@ -1,0 +1,17 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\bin\Debug\net8.0-windows\test oefening.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\bin\Debug\net8.0-windows\test oefening.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\bin\Debug\net8.0-windows\test oefening.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\bin\Debug\net8.0-windows\test oefening.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\bin\Debug\net8.0-windows\test oefening.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test_oefening.Form1.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.AssemblyInfo.cs
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\refint\test oefening.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\test oefening.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\OOP\OOP-Tests\Thierry_Benoit_Examen_OOP\Oefening 2\test oefening\test oefening\obj\Debug\net8.0-windows\ref\test oefening.dll
