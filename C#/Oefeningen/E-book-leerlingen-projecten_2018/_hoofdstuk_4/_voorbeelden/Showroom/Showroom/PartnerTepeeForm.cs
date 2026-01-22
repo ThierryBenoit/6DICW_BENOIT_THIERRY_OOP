@@ -103,6 +103,14 @@ namespace Showroom
             prijsTextBox.Text = _wagen.GeefPrijs().ToString("C");
         }
 
+        private void klapdeurenPictureBox_Click(object sender, EventArgs e)
+        {
 
+        }
+
+        private void PartnerTepeeForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
