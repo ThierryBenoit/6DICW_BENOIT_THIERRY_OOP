@@ -1,0 +1,17 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\bin\Debug\net8.0-windows\testRetry.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\bin\Debug\net8.0-windows\testRetry.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\bin\Debug\net8.0-windows\testRetry.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\bin\Debug\net8.0-windows\testRetry.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\bin\Debug\net8.0-windows\testRetry.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.Form1.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.AssemblyInfo.cs
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\refint\testRetry.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\testRetry.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_4\_voorbeelden\testRetry\testRetry\obj\Debug\net8.0-windows\ref\testRetry.dll

@@ -48,7 +48,7 @@
             this.label1.Location = new System.Drawing.Point(70, 16);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(69, 25);
+            this.label1.Size = new System.Drawing.Size(47, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "lokaal:";
             // 
@@ -58,7 +58,7 @@
             this.label2.Location = new System.Drawing.Point(70, 48);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(100, 25);
+            this.label2.Size = new System.Drawing.Size(68, 16);
             this.label2.TabIndex = 1;
             this.label2.Text = "capaciteit;";
             // 
@@ -68,7 +68,7 @@
             this.label3.Location = new System.Drawing.Point(70, 81);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(203, 25);
+            this.label3.Size = new System.Drawing.Size(138, 16);
             this.label3.TabIndex = 2;
             this.label3.Text = "aantal plaatsen bezet:";
             // 
@@ -79,7 +79,7 @@
             this.lokaalTextBox.Name = "lokaalTextBox";
             this.lokaalTextBox.ReadOnly = true;
             this.lokaalTextBox.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.lokaalTextBox.Size = new System.Drawing.Size(50, 30);
+            this.lokaalTextBox.Size = new System.Drawing.Size(50, 22);
             this.lokaalTextBox.TabIndex = 3;
             this.lokaalTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -90,7 +90,7 @@
             this.capaciteitTextBox.Name = "capaciteitTextBox";
             this.capaciteitTextBox.ReadOnly = true;
             this.capaciteitTextBox.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.capaciteitTextBox.Size = new System.Drawing.Size(50, 30);
+            this.capaciteitTextBox.Size = new System.Drawing.Size(50, 22);
             this.capaciteitTextBox.TabIndex = 4;
             this.capaciteitTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -101,9 +101,10 @@
             this.bezetTextBox.Name = "bezetTextBox";
             this.bezetTextBox.ReadOnly = true;
             this.bezetTextBox.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.bezetTextBox.Size = new System.Drawing.Size(50, 30);
+            this.bezetTextBox.Size = new System.Drawing.Size(50, 22);
             this.bezetTextBox.TabIndex = 5;
             this.bezetTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.bezetTextBox.TextChanged += new System.EventHandler(this.bezetTextBox_TextChanged);
             // 
             // label4
             // 
@@ -111,7 +112,7 @@
             this.label4.Location = new System.Drawing.Point(45, 19);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(194, 25);
+            this.label4.Size = new System.Drawing.Size(130, 16);
             this.label4.TabIndex = 6;
             this.label4.Text = "aantal in te schrijven:";
             // 
@@ -120,7 +121,7 @@
             this.aantalInschrijvenTextBox.Location = new System.Drawing.Point(201, 16);
             this.aantalInschrijvenTextBox.Margin = new System.Windows.Forms.Padding(4);
             this.aantalInschrijvenTextBox.Name = "aantalInschrijvenTextBox";
-            this.aantalInschrijvenTextBox.Size = new System.Drawing.Size(50, 30);
+            this.aantalInschrijvenTextBox.Size = new System.Drawing.Size(50, 22);
             this.aantalInschrijvenTextBox.TabIndex = 7;
             this.aantalInschrijvenTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -142,7 +143,7 @@
             this.boodschapTextBox.Name = "boodschapTextBox";
             this.boodschapTextBox.ReadOnly = true;
             this.boodschapTextBox.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.boodschapTextBox.Size = new System.Drawing.Size(267, 30);
+            this.boodschapTextBox.Size = new System.Drawing.Size(267, 22);
             this.boodschapTextBox.TabIndex = 9;
             this.boodschapTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -161,7 +162,7 @@
             // 
             // VrijeStudieForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(631, 424);
             this.Controls.Add(this.panel1);

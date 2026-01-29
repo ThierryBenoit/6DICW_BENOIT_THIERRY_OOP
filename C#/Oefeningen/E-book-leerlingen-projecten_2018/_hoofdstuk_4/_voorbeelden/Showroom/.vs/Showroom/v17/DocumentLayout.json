@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_voorbeelden\\Showroom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E41F40-2412-4AD8-B134-7D0032AD99B8}|Showroom\\Showroom.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_voorbeelden\\showroom\\showroom\\partnertepeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E41F40-2412-4AD8-B134-7D0032AD99B8}|Showroom\\Showroom.csproj|solutionrelative:showroom\\partnertepeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E41F40-2412-4AD8-B134-7D0032AD99B8}|Showroom\\Showroom.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_voorbeelden\\showroom\\showroom\\partnertepeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68E41F40-2412-4AD8-B134-7D0032AD99B8}|Showroom\\Showroom.csproj|solutionrelative:showroom\\partnertepeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartnerTepeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_voorbeelden\\Showroom\\Showroom\\PartnerTepeeForm.cs",
+              "RelativeDocumentMoniker": "Showroom\\PartnerTepeeForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_voorbeelden\\Showroom\\Showroom\\PartnerTepeeForm.cs",
+              "RelativeToolTip": "Showroom\\PartnerTepeeForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:38:09.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartnerTepeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_voorbeelden\\Showroom\\Showroom\\PartnerTepeeForm.cs",
+              "RelativeDocumentMoniker": "Showroom\\PartnerTepeeForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_voorbeelden\\Showroom\\Showroom\\PartnerTepeeForm.cs [Design]",
+              "RelativeToolTip": "Showroom\\PartnerTepeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:34:05.751Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

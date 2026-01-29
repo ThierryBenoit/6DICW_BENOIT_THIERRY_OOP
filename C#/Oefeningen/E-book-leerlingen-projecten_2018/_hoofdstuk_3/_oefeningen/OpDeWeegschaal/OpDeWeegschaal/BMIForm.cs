@@ -25,6 +25,7 @@ namespace OpDeWeegschaal
         }
         private void UpdateForm()
         {
+
             gewichtInKg.Text = _weightWatcher.Gewicht.ToString();
             BmiBerekend.Text = _weightWatcher.GeefBMI().ToString("0.00");
             Status.Text = _weightWatcher.Geefstatus();

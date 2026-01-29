@@ -39,5 +39,10 @@ namespace LeerlingenSecretariaat
             }
             aantalInschrijvenTextBox.Text = "";
         }
+
+        private void bezetTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
