@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\H7\\Persoon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0846F9-8F72-4D58-A139-AE3B660C39F3}|Persoon\\Persoon.vbproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\oop\\h7\\persoon\\persoon\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F0846F9-8F72-4D58-A139-AE3B660C39F3}|Persoon\\Persoon.vbproj|solutionrelative:persoon\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\H7\\Persoon\\Persoon\\Module1.vb",
+              "RelativeDocumentMoniker": "Persoon\\Module1.vb",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\OOP\\H7\\Persoon\\Persoon\\Module1.vb*",
+              "RelativeToolTip": "Persoon\\Module1.vb*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T14:25:58.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
