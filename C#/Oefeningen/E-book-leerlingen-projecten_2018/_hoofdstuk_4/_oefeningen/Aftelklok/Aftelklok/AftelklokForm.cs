@@ -43,5 +43,24 @@ namespace Aftelklok
             // tekstvak vernieuwen
             displayTextBox.Text = _klokje.ResterendeTijd();
         }
+
+        private void displayTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            _klokje.Aftellen();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // _klokje opnieuw instellen op 1 minuut en 30 seconden
+            _klokje.TijdInstellen(1, 30);
+
+            // tekstvak vernieuwen
+            displayTextBox.Text = _klokje.ResterendeTijd();
+        }
     }
 }
