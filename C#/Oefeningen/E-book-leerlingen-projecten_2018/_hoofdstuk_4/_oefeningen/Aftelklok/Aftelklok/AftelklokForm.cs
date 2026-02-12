@@ -51,15 +51,13 @@ namespace Aftelklok
 
         private void button1_Click(object sender, EventArgs e)
         {
-            _klokje.Aftellen();
+            aftelklokTimer.Start();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            // _klokje opnieuw instellen op 1 minuut en 30 seconden
+            aftelklokTimer.Stop();
             _klokje.TijdInstellen(1, 30);
-
-            // tekstvak vernieuwen
             displayTextBox.Text = _klokje.ResterendeTijd();
         }
     }

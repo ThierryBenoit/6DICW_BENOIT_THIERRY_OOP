@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\aftelklokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\aftelklok\\aftelklok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\Aftelklok\\aftelklok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\aftelklok\\aftelklok\\aftelklokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\Aftelklok\\aftelklok\\aftelklokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\aftelklokform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\aftelklok\\aftelklok\\aftelklok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\Aftelklok\\aftelklok\\aftelklok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{455299AA-7DC4-4720-98C3-EC895668C6A9}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\aftelklok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -39,7 +39,19 @@
               "ViewState": "AgIAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T10:40:25.864Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AftelklokForm.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs",
+              "RelativeDocumentMoniker": "Aftelklok\\AftelklokForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs",
+              "RelativeToolTip": "Aftelklok\\AftelklokForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:39:35.738Z",
               "EditorCaption": ""
             },
             {
@@ -56,21 +68,7 @@
               "RelativeToolTip": "Aftelklok\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T10:49:22.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AftelklokForm.cs",
-              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs",
-              "RelativeDocumentMoniker": "Aftelklok\\AftelklokForm.cs",
-              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs",
-              "RelativeToolTip": "Aftelklok\\AftelklokForm.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAD4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T10:39:35.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T10:49:22.073Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\Aftelklok\\Aftelklok\\AftelklokForm.cs [Design]",
               "RelativeToolTip": "Aftelklok\\AftelklokForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T10:20:20.497Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-06T10:20:20.497Z"
             }
           ]
         }
