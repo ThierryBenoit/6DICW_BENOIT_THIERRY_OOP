@@ -1,0 +1,17 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\net8.0-windows\ProjectZonderNaam.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\net8.0-windows\ProjectZonderNaam.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\net8.0-windows\ProjectZonderNaam.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\net8.0-windows\ProjectZonderNaam.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\net8.0-windows\ProjectZonderNaam.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.Form1.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.AssemblyInfo.cs
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\refint\ProjectZonderNaam.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ProjectZonderNaam.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\net8.0-windows\ref\ProjectZonderNaam.dll
