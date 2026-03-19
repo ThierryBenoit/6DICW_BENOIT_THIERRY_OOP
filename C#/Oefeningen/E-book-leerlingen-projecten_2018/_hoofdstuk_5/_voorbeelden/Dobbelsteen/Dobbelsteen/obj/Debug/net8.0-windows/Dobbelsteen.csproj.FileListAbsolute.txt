@@ -1,0 +1,17 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\bin\Debug\net8.0-windows\Dobbelsteen.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\bin\Debug\net8.0-windows\Dobbelsteen.deps.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\bin\Debug\net8.0-windows\Dobbelsteen.runtimeconfig.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\bin\Debug\net8.0-windows\Dobbelsteen.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\bin\Debug\net8.0-windows\Dobbelsteen.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.Form1.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.AssemblyInfo.cs
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\refint\Dobbelsteen.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\Dobbelsteen.genruntimeconfig.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Dobbelsteen\Dobbelsteen\obj\Debug\net8.0-windows\ref\Dobbelsteen.dll
