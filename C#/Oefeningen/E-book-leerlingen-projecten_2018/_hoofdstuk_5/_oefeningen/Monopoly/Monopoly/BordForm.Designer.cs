@@ -288,6 +288,7 @@
             this.vak29Button.TabIndex = 0;
             this.vak29Button.Text = "Veldstraat Gent";
             this.vak29Button.UseVisualStyleBackColor = false;
+            this.vak29Button.Click += new System.EventHandler(this.vak29Button_Click);
             // 
             // vak28Button
             // 
@@ -346,6 +347,7 @@
             this.vak23Button.TabIndex = 0;
             this.vak23Button.Text = "Kortrijksestr. Gent";
             this.vak23Button.UseVisualStyleBackColor = false;
+            this.vak23Button.Click += new System.EventHandler(this.vak23Button_Click);
             // 
             // vak22Button
             // 
@@ -441,6 +443,7 @@
             this.vak32Button.TabIndex = 0;
             this.vak32Button.Text = "Vlaanderenstr. Gent";
             this.vak32Button.UseVisualStyleBackColor = false;
+            this.vak32Button.Click += new System.EventHandler(this.vak32Button_Click);
             // 
             // vak31Button
             // 
@@ -459,7 +462,7 @@
             this.AutoScroll = true;
             this.BackgroundImage = global::Monopoly.Properties.Resources.monopoly;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.ClientSize = new System.Drawing.Size(987, 727);
+            this.ClientSize = new System.Drawing.Size(986, 727);
             this.Controls.Add(this.vak20Button);
             this.Controls.Add(this.vak31Button);
             this.Controls.Add(this.vak19Button);

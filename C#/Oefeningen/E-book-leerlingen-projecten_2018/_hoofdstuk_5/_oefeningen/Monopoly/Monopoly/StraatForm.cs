@@ -14,15 +14,15 @@ namespace Monopoly
     {
         private MonopolyStraat _straat;
 
-        public StraatForm()
+        public StraatForm(MonopolyStraat straat, Color kleur) 
         {
             InitializeComponent();
 
-            _straat = new MonopolyStraat("Veldstraat", "Gent", 22, 120, 360, 850, 1025, 1200);
+            _straat = straat;
 
             straatTextBox.Text = _straat.Straat;
             stadTextBox.Text = _straat.Stad;
-
+            panelVak.BackColor = kleur;
             UpdateBebouwingEnHuur();
         }
 
@@ -45,6 +45,17 @@ namespace Monopoly
             aantalHuizenTextBox.Text = _straat.AantalHuizen.ToString();
             aantalHotelsTextBox.Text = _straat.AantalHotels.ToString();
             huurTextBox.Text = _straat.GeefHuur().ToString("C");
+
+        }
+
+        private void StraatForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelVak_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

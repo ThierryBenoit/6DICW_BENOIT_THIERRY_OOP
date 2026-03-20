@@ -16,7 +16,7 @@ namespace Monopoly
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new StraatForm());
+            Application.Run(new BordForm());
         }
     }
 }

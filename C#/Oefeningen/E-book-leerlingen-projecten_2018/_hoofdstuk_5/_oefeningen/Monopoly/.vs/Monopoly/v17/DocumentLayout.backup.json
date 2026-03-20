@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\monopoly\\monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StraatForm.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeToolTip": "Monopoly\\StraatForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:29:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BordForm.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\BordForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\BordForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\BordForm.cs",
+              "RelativeToolTip": "Monopoly\\BordForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:28:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StraatForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\StraatForm.cs [Design]",
+              "RelativeToolTip": "Monopoly\\StraatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:23:22.205Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\Program.cs",
+              "RelativeDocumentMoniker": "Monopoly\\Program.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\Program.cs",
+              "RelativeToolTip": "Monopoly\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:24:54.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\BordForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\BordForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\BordForm.cs [Design]",
+              "RelativeToolTip": "Monopoly\\BordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:23:19.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonopolyStraat.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\MonopolyStraat.cs",
+              "RelativeDocumentMoniker": "Monopoly\\MonopolyStraat.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_5\\_oefeningen\\Monopoly\\Monopoly\\MonopolyStraat.cs",
+              "RelativeToolTip": "Monopoly\\MonopolyStraat.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:22:55.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
