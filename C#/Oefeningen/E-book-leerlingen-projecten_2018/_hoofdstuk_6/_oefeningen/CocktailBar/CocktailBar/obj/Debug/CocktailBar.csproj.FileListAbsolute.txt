@@ -1,0 +1,6 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.csproj.AssemblyReference.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.Properties.Resources.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_6\_oefeningen\CocktailBar\CocktailBar\obj\Debug\CocktailBar.pdb
