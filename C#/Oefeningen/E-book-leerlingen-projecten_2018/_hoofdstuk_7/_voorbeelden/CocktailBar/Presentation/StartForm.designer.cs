@@ -81,7 +81,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(376, 253);
+            this.ClientSize = new System.Drawing.Size(840, 253);
             this.Controls.Add(this.cubaLibreButton);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);

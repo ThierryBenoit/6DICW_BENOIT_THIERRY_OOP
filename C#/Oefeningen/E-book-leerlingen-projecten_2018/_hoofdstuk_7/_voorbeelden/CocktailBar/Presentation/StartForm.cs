@@ -19,16 +19,10 @@ namespace Presentation
 
         private void bloodyMaryButton_Click(object sender, EventArgs e)
         {
-            Cocktail cocktail = new Cocktail("Bloody Mary", (decimal) 8.25);
-
-            Ingredient i1 = new Ingredient("tomatensap", 100, 0);
-            cocktail.VoegIngredientToe(i1);
-
-            Ingredient i2 = new Ingredient("wodka", 50, 0.45);
-            cocktail.VoegIngredientToe(i2);
-
-            Ingredient i3 = new Ingredient("citroensap", 8, 0);
-            cocktail.VoegIngredientToe(i3);
+            Cocktail cocktail = new Cocktail("Bloody Mary", (decimal)8.25);
+            cocktail.VoegIngredientToe(new Ingredient("tomatensap", 100, 0));
+            cocktail.VoegIngredientToe(new Ingredient("wodka", 50, 0.45));
+            cocktail.VoegIngredientToe(new Ingredient("citroensap", 8, 0));
 
             CocktailInfoForm formulier = new CocktailInfoForm(cocktail);
             formulier.Show();
@@ -36,6 +30,13 @@ namespace Presentation
 
         private void cubaLibreButton_Click(object sender, EventArgs e)
         {
+            Cocktail cocktail = new Cocktail("Cuba Libre", (decimal)7.50);
+            cocktail.VoegIngredientToe(new Ingredient("cola", 100, 0));
+            cocktail.VoegIngredientToe(new Ingredient("wodka", 50, 0.45));
+            cocktail.VoegIngredientToe(new Ingredient("limoensap", 8, 0));
+
+            CocktailInfoForm formulier = new CocktailInfoForm(cocktail);
+            formulier.Show();
         }
     }
 }

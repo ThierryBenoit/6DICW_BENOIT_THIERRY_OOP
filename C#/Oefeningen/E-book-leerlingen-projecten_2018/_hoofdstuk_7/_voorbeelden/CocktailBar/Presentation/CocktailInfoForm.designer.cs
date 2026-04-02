@@ -137,7 +137,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(385, 128);
+            this.ClientSize = new System.Drawing.Size(385, 178);
             this.Controls.Add(this.pittigerButton);
             this.Controls.Add(this.alcoholpercentageTextBox);
             this.Controls.Add(this.inhoudTextBox);
@@ -151,6 +151,7 @@
             this.Controls.Add(this.label2);
             this.Name = "CocktailInfoForm";
             this.Text = "CocktailInfoForm";
+            this.Load += new System.EventHandler(this.CocktailInfoForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
