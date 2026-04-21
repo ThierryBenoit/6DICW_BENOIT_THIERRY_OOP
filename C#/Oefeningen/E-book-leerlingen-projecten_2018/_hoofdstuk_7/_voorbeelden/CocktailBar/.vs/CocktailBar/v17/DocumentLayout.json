@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CACBF407-0864-41E3-949F-13F0CE621EB9}|Business\\Business.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\cocktailbar\\business\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CACBF407-0864-41E3-949F-13F0CE621EB9}|Business\\Business.csproj|solutionrelative:business\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\presentation\\cocktailinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|solutionrelative:presentation\\cocktailinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\presentation\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\cocktailbar\\presentation\\cocktailinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|solutionrelative:presentation\\cocktailinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CACBF407-0864-41E3-949F-13F0CE621EB9}|Business\\Business.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\cocktailbar\\business\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACBF407-0864-41E3-949F-13F0CE621EB9}|Business\\Business.csproj|solutionrelative:business\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CACBF407-0864-41E3-949F-13F0CE621EB9}|Business\\Business.csproj|C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\business\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Cocktail.cs",
               "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Business\\Cocktail.cs",
               "RelativeDocumentMoniker": "Business\\Cocktail.cs",
@@ -86,18 +86,17 @@
               "RelativeToolTip": "Business\\Ingredient.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T09:57:40.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:57:40.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CocktailInfoForm.cs",
               "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\CocktailInfoForm.cs",
               "RelativeDocumentMoniker": "Presentation\\CocktailInfoForm.cs",
               "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\CocktailInfoForm.cs",
               "RelativeToolTip": "Presentation\\CocktailInfoForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwC8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T09:55:51.073Z",
               "EditorCaption": ""
@@ -111,7 +110,8 @@
               "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\CocktailInfoForm.cs [Design]",
               "RelativeToolTip": "Presentation\\CocktailInfoForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T09:55:43.851Z"
+              "WhenOpened": "2026-04-02T09:55:43.851Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -133,7 +133,7 @@
               "RelativeDocumentMoniker": "Presentation\\StartForm.cs",
               "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\StartForm.cs",
               "RelativeToolTip": "Presentation\\StartForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T09:46:11.215Z",
               "EditorCaption": ""

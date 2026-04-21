@@ -1,0 +1,7 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\testDND_Benoit_Thierry\obj\Debug\net8.0\testDND_Benoit_Thierry.Form1.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\testDND_Benoit_Thierry\obj\Debug\net8.0\DNDBussines.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\testDND_Benoit_Thierry\obj\Debug\net8.0\DNDBussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\testDND_Benoit_Thierry\obj\Debug\net8.0\DNDBussines.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\testDND_Benoit_Thierry\obj\Debug\net8.0\DNDBussines.AssemblyInfo.cs
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\testDND_Benoit_Thierry\obj\Debug\net8.0\DNDBussines.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\testDND_Benoit_Thierry\obj\Debug\net8.0\DNDBussines.sourcelink.json

@@ -1,0 +1,9 @@
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.Form1.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.AssemblyInfoInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.AssemblyInfo.cs
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.sourcelink.json
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.MeerInfo.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\testDND_Benoit_Thierry\DNDPresentation\obj\Debug\net8.0-windows\DNDPresentation.OpstartForm.resources
