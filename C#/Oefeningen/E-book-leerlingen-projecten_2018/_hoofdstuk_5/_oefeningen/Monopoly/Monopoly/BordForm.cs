@@ -22,6 +22,8 @@ namespace Monopoly
             MonopolyStraat _straat = new MonopolyStraat("Kortrijksestraat", "Gent", 18, 90, 250, 700, 875, 1050);
             StraatForm formulier = new StraatForm(_straat, Color.Red);
             formulier.Show();
+            Form1 formulier2 = new Form1();
+            formulier2.Show();
             
         }
 

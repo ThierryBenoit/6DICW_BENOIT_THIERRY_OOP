@@ -25,7 +25,13 @@ namespace Business
         public int AantalExemplaren
         {
             get { return _aantalExemplaren; }
-        } 
-       
+        }
+        public override string ToString()
+        {
+            return _paginasOrigineel + " Paginas en dat " + _aantalExemplaren + " keer";
+        }
+
+
+
     }
 }

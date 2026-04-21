@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\printburo\\presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\printburo\\business\\printopdracht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|solutionrelative:business\\printopdracht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\printburo\\business\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|solutionrelative:business\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\printburo\\presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\printburo\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|c:\\users\\thierry.benoit\\downloads\\school\\6dicw_benoit_thierry_oop\\c#\\oefeningen\\e-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\printburo\\presentation\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Printopdracht.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Printopdracht.cs",
+              "RelativeDocumentMoniker": "Business\\Printopdracht.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Printopdracht.cs",
+              "RelativeToolTip": "Business\\Printopdracht.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:17:56.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Copier.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Copier.cs",
+              "RelativeDocumentMoniker": "Business\\Copier.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Copier.cs",
+              "RelativeToolTip": "Business\\Copier.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:19:16.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CopierForm.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\CopierForm.cs",
+              "RelativeDocumentMoniker": "Presentation\\CopierForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\CopierForm.cs",
+              "RelativeToolTip": "Presentation\\CopierForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:15:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CopierForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\CopierForm.cs",
+              "RelativeDocumentMoniker": "Presentation\\CopierForm.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\CopierForm.cs [Design]",
+              "RelativeToolTip": "Presentation\\CopierForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:15:09.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\App.config",
+              "RelativeDocumentMoniker": "Presentation\\App.config",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\App.config",
+              "RelativeToolTip": "Presentation\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-02T10:14:57.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\thierry.benoit\\Downloads\\school\\6DICW_BENOIT_THIERRY_OOP\\C#\\Oefeningen\\E-book-leerlingen-projecten_2018\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:13:34.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

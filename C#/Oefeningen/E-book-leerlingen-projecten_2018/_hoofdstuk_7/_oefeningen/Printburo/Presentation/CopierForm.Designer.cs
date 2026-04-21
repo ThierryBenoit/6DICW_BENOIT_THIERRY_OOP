@@ -82,6 +82,7 @@
             0,
             0,
             0});
+            this.paginasNumericUpDown.ValueChanged += new System.EventHandler(this.paginasNumericUpDown_ValueChanged);
             // 
             // kopiesNumericUpDown
             // 
@@ -113,6 +114,7 @@
             this.inWachtrijButton.TabIndex = 5;
             this.inWachtrijButton.Text = "Zet in wachtrij";
             this.inWachtrijButton.UseVisualStyleBackColor = true;
+            this.inWachtrijButton.Click += new System.EventHandler(this.inWachtrijButton_Click);
             // 
             // panel1
             // 
@@ -153,6 +155,7 @@
             this.printButton.TabIndex = 10;
             this.printButton.Text = "Print";
             this.printButton.UseVisualStyleBackColor = true;
+            this.printButton.Click += new System.EventHandler(this.printButton_Click);
             // 
             // tellerTextBox
             // 
@@ -174,6 +177,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "CopierForm";
             this.Text = "CopierForm";
+            this.Load += new System.EventHandler(this.CopierForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.paginasNumericUpDown)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.kopiesNumericUpDown)).EndInit();
             this.panel1.ResumeLayout(false);

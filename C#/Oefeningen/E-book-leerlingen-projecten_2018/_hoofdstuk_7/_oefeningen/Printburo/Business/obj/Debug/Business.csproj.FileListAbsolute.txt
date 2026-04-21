@@ -20,3 +20,9 @@ D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeni
 D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
 D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.dll
 D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Business\bin\Debug\Business.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Business\bin\Debug\Business.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Business\obj\Debug\Business.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Business\obj\Debug\Business.pdb

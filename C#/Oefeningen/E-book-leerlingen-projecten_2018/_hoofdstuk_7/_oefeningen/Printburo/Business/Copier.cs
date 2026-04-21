@@ -10,6 +10,7 @@ namespace Business
     {
         private int _teller;
         private List<Printopdracht> _wachtrij;
+        
 
         public Copier()
         {
@@ -32,6 +33,8 @@ namespace Business
         // ----------------------------------------------------------------
         public void VoegPrintopdrachtToe(int aantalPaginas, int aantalExemplaren)
         {
+            Printopdracht _printOpdracht= new Printopdracht(aantalPaginas, aantalExemplaren);
+            _wachtrij.Add(_printOpdracht);
         }
 
         // nog te programmeren ...
@@ -39,7 +42,13 @@ namespace Business
         // ------------------------------------------------------------------
         public void Print()
         {
+            Printopdracht _printOpdracht = _wachtrij[0];
+            _teller += _printOpdracht.AantalExemplaren;
+            _wachtrij.Remove(_printOpdracht);
+            
         }
+        
+        
 
     }
 }

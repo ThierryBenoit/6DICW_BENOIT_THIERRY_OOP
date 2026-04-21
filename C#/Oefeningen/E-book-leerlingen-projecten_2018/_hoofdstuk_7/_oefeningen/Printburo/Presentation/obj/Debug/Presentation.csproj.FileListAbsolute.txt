@@ -59,3 +59,17 @@ F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_oefening
 F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
 F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.exe
 F:\2018_2019\Drielagenmodel\_bronbestanden\_beginsituatie\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\bin\Debug\Presentation.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\bin\Debug\Presentation.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\bin\Debug\Business.dll
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\bin\Debug\Business.pdb
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.exe.config
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.CopierForm.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.exe
+C:\Users\thierry.benoit\Downloads\school\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_7\_oefeningen\Printburo\Presentation\obj\Debug\Presentation.pdb
