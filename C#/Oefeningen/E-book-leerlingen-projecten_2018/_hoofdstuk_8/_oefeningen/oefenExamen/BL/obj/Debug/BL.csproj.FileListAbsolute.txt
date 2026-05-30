@@ -1,0 +1,8 @@
+C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\bin\Debug\BL.dll
+C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\bin\Debug\BL.pdb
+C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\bin\Debug\MySql.Data.dll
+C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.dll
+C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.pdb
