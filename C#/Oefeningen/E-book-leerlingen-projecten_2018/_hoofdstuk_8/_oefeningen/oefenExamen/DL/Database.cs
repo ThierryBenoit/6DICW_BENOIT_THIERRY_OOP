@@ -29,7 +29,7 @@ namespace DL
             while (mySqlDataReader.Read())
             {
                 Wielrenner wielrenner = new Wielrenner(
-                    (int )mySqlDataReader["rider_id"],
+                    (int)mySqlDataReader["rider_id"],
                     mySqlDataReader["name"].ToString(),
                     mySqlDataReader["nationality"].ToString(),
                     (DateTime)mySqlDataReader["birthdate"],
@@ -49,9 +49,31 @@ namespace DL
             string sql = "DELETE FROM rider_all_time_rankings WHERE rider_id = @id";
             MySqlCommand cmd = new MySqlCommand(sql, _mySqlConnection);
             cmd.Parameters.AddWithValue("@id", riderID);
-                _mySqlConnection.Open();
-    cmd.ExecuteNonQuery();
-    _mySqlConnection.Close();
+            _mySqlConnection.Open();
+            cmd.ExecuteNonQuery();
+            _mySqlConnection.Close();
+        }
+
+        public void AddRenner(Wielrenner wielrenner)
+        {
+            string sql = "INSERT INTO rider_all_time_rankings(id, name, nationality, birthdate, gender, total_wins, total_points, ranking) " +
+                "VALUES (wielrenner.ID, wielrenner.Name, wielrenner.Nationality, wielrenner.Birthdate, wielrenner.Gender," +
+                " wielrenner.Total_wins, wielrenner.Total_points, wielrenner.Ranking)";
+
+
+            MySqlCommand cmd = new MySqlCommand(sql, _mySqlConnection);
+            cmd.Parameters.AddWithValue("@rider_id", wielrenner.Rider_id);
+            cmd.Parameters.AddWithValue("@name", wielrenner.Name);
+            cmd.Parameters.AddWithValue("@nationality", wielrenner.Nationality);
+            cmd.Parameters.AddWithValue("@birthdate", wielrenner.Birthdate);
+            cmd.Parameters.AddWithValue("@gender", wielrenner.Gender);
+            cmd.Parameters.AddWithValue("@total_wins", wielrenner.Total_wins);
+            cmd.Parameters.AddWithValue("@total_points", wielrenner.Total_points);
+            cmd.Parameters.AddWithValue("@ranking", wielrenner.Ranking);
+            _mySqlConnection.Open();
+            cmd.ExecuteNonQuery();
+            _mySqlConnection.Close();
+
         }
     }
 }

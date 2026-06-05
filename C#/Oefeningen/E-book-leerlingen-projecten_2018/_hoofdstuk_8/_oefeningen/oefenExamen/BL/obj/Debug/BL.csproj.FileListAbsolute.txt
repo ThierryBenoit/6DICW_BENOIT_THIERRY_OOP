@@ -6,3 +6,10 @@ C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.csproj.Co
 C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.csproj.Up2Date
 C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.dll
 C:\Users\ThierryBenoitSFEleer\source\repos\oefenExamen\BL\obj\Debug\BL.pdb
+C:\Users\ThierryBenoitSFEleer\School\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_8\_oefeningen\oefenExamen\BL\bin\Debug\BL.dll
+C:\Users\ThierryBenoitSFEleer\School\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_8\_oefeningen\oefenExamen\BL\bin\Debug\BL.pdb
+C:\Users\ThierryBenoitSFEleer\School\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_8\_oefeningen\oefenExamen\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\ThierryBenoitSFEleer\School\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_8\_oefeningen\oefenExamen\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ThierryBenoitSFEleer\School\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_8\_oefeningen\oefenExamen\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\ThierryBenoitSFEleer\School\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_8\_oefeningen\oefenExamen\BL\obj\Debug\BL.dll
+C:\Users\ThierryBenoitSFEleer\School\6DICW_BENOIT_THIERRY_OOP\C#\Oefeningen\E-book-leerlingen-projecten_2018\_hoofdstuk_8\_oefeningen\oefenExamen\BL\obj\Debug\BL.pdb

@@ -61,7 +61,7 @@ namespace Presentation
         {
             NieuweRennerToeveoegenForm frm = new NieuweRennerToeveoegenForm();
             frm.ShowDialog();
-            
+            _wielrennerDA.AddRenner(frm.NieuweRenner);
             Wielrenner w = frm.nieuweWielrenner();
 
             dataGridView1.Rows.Add(

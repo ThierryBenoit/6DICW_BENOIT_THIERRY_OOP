@@ -44,7 +44,7 @@ namespace BL
         {
             get { return name; }
         }
-        
+
         public string Nationality
         {
             get { return nationality; }
@@ -60,7 +60,8 @@ namespace BL
             get { return gender; }
         }
 
-        public int Total_wins { 
+        public int Total_wins
+        {
             get { return total_wins; }
         }
 
@@ -72,6 +73,12 @@ namespace BL
         public int Ranking
         {
             get { return ranking; }
-        }   
+        }
+
+        public int ID
+        {
+            get { return rider_id; }
+
+        }
     }
 }
