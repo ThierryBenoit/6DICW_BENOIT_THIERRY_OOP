@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using BL;
+using System.ComponentModel.Design;
 
 namespace DL
 {
@@ -56,9 +57,9 @@ namespace DL
 
         public void AddRenner(Wielrenner wielrenner)
         {
-            string sql = "INSERT INTO rider_all_time_rankings(id, name, nationality, birthdate, gender, total_wins, total_points, ranking) " +
-                "VALUES (wielrenner.ID, wielrenner.Name, wielrenner.Nationality, wielrenner.Birthdate, wielrenner.Gender," +
-                " wielrenner.Total_wins, wielrenner.Total_points, wielrenner.Ranking)";
+            string sql = "INSERT INTO rider_all_time_rankings(rider_id, name, nationality, birthdate, gender, total_wins, total_points, ranking) " +
+                "VALUES (@rider_id, @name, @nationality, @birthdate, @gender," +
+                " @total_wins, @total_points, @ranking)";
 
 
             MySqlCommand cmd = new MySqlCommand(sql, _mySqlConnection);

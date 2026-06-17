@@ -75,7 +75,7 @@ namespace BL
             get { return ranking; }
         }
 
-        public int ID
+        public int id
         {
             get { return rider_id; }
 
