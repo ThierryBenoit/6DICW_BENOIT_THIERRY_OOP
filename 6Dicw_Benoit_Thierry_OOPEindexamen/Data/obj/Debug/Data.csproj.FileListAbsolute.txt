@@ -1,0 +1,10 @@
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\bin\Debug\Data.dll
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\bin\Debug\Data.pdb
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\bin\Debug\Business.dll
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\bin\Debug\MySql.Data.dll
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\bin\Debug\Business.pdb
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\obj\Debug\Data.dll
+C:\Users\ThierryBenoitSFEleer\source\repos\6Dicw_Benoit_Thierry_OOPEindexamen\Data\obj\Debug\Data.pdb

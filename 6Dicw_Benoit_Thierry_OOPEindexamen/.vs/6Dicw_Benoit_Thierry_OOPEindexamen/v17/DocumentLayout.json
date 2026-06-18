@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B862D352-D068-4B95-ABFB-98C8357D2FE8}|Presentation\\Presentation.csproj|c:\\users\\thierrybenoitsfeleer\\source\\repos\\6dicw_benoit_thierry_oopeindexamen\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B862D352-D068-4B95-ABFB-98C8357D2FE8}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239679B8-63EE-4885-B44E-B1E3FDA370A2}|Business\\Business.csproj|c:\\users\\thierrybenoitsfeleer\\source\\repos\\6dicw_benoit_thierry_oopeindexamen\\business\\personage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239679B8-63EE-4885-B44E-B1E3FDA370A2}|Business\\Business.csproj|solutionrelative:business\\personage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB95906-7C45-47E3-AC77-2D50DFD2C125}|Data\\Data.csproj|c:\\users\\thierrybenoitsfeleer\\source\\repos\\6dicw_benoit_thierry_oopeindexamen\\data\\bsgdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB95906-7C45-47E3-AC77-2D50DFD2C125}|Data\\Data.csproj|solutionrelative:data\\bsgdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B862D352-D068-4B95-ABFB-98C8357D2FE8}|Presentation\\Presentation.csproj|c:\\users\\thierrybenoitsfeleer\\source\\repos\\6dicw_benoit_thierry_oopeindexamen\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B862D352-D068-4B95-ABFB-98C8357D2FE8}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239679B8-63EE-4885-B44E-B1E3FDA370A2}|Business\\Business.csproj|c:\\users\\thierrybenoitsfeleer\\source\\repos\\6dicw_benoit_thierry_oopeindexamen\\business\\schip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239679B8-63EE-4885-B44E-B1E3FDA370A2}|Business\\Business.csproj|solutionrelative:business\\schip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239679B8-63EE-4885-B44E-B1E3FDA370A2}|Business\\Business.csproj|c:\\users\\thierrybenoitsfeleer\\source\\repos\\6dicw_benoit_thierry_oopeindexamen\\business\\planeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239679B8-63EE-4885-B44E-B1E3FDA370A2}|Business\\Business.csproj|solutionrelative:business\\planeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BSGData.cs",
+              "DocumentMoniker": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Data\\BSGData.cs",
+              "RelativeDocumentMoniker": "Data\\BSGData.cs",
+              "ToolTip": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Data\\BSGData.cs",
+              "RelativeToolTip": "Data\\BSGData.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwGQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:46:50.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Presentation\\Form1.cs",
+              "RelativeToolTip": "Presentation\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T07:41:02.95Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personage.cs",
+              "DocumentMoniker": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Business\\Personage.cs",
+              "RelativeDocumentMoniker": "Business\\Personage.cs",
+              "ToolTip": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Business\\Personage.cs",
+              "RelativeToolTip": "Business\\Personage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:49:39.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Planeet.cs",
+              "DocumentMoniker": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Business\\Planeet.cs",
+              "RelativeDocumentMoniker": "Business\\Planeet.cs",
+              "ToolTip": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Business\\Planeet.cs",
+              "RelativeToolTip": "Business\\Planeet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:49:52.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Schip.cs",
+              "DocumentMoniker": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Business\\Schip.cs",
+              "RelativeDocumentMoniker": "Business\\Schip.cs",
+              "ToolTip": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Business\\Schip.cs",
+              "RelativeToolTip": "Business\\Schip.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:43:40.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\ThierryBenoitSFEleer\\source\\repos\\6Dicw_Benoit_Thierry_OOPEindexamen\\Presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "Presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:43:16.961Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
